@@ -12,7 +12,7 @@
 
 ``` 
   - Clonando o Repositório
-  git clone https://github.com/pedroduarte2005/dowhile-tailwind-designs-rapidos.git
+  git clone https://github.com/pduartesilva2005/dowhile-tailwind-designs-rapidos.git
 ```
 
 2021 - Feito por Pedro Duarte
